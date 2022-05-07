@@ -13,13 +13,13 @@ const TopInfoSection = () => {
             BevalinVerse + ... The story will be written by you.
           </p>
           <div className="d-flex flex-wrap align-items-center gap-3 my-4 social-holder">
-            <a href="https://twitter.com/BevalinDAOi" target="_blank">
+            <a href="https://twitter.com/BevalinDAO" target="_blank">
               <img src="/assets/images/twitter.png" height="45" />
             </a>
-            <a href="https://discord.gg/jvXxSgP3" target="_blank">
+            <a href="https://discord.gg/HKkYsQYc" target="_blank">
               <img src="/assets/images/discord.png" height="45" />
             </a>
-            <a href="https://opensea.io/collection/bevalindao" target="_blank">
+            <a href="https://opensea.io/collection/apesofbevalin" target="_blank">
               <img src="/assets/images/opensea.png" height="45" />
             </a>
             <a
